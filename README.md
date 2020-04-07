@@ -9,7 +9,7 @@
 
 关键代码：
 ```java
-	public void setListViewHeight(ListView listview){
+    public void setListViewHeight(ListView listview){
         ListAdapter adapter = listview.getAdapter();
         if(adapter == null){
             return;
