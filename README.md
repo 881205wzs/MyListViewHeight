@@ -7,4 +7,4 @@
 
 ## 说明：
 
-<a href="https://davis.blog.csdn.net/article/details/105369693">Android 动态计算ListView高度</a>
+详情见：<a href="https://davis.blog.csdn.net/article/details/105369693">Android 动态计算ListView高度</a>
