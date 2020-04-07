@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_item_info"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:padding="20dp"
+        android:textSize="18sp"
+        android:lineSpacingExtra="10dp"
+        android:text="测试一"
+        android:background="@color/colorAccent"/>
+
+</LinearLayout>
